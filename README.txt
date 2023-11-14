@@ -1,1 +1,3 @@
-README.txtTitle And Purpose Of The Application:The title of the application is Appointment Scheduler and the purpose of the application is to create, view, update, and delete appointments and customer records. Author: Ryan PetersonE-Mail: gpete62@wgu.eduApplication Version: 1.0Date : December 19, 2022IDE : IntelliJ IDEA 2022.2.3 (Ultimate Edition) Build #IU-222.4345.14, built on October 4, 2022JDK: Version 17.0.4JavaFX: Version 11.0.2 JDBC Driver: mysql-connector-java-8.0.25Directions:User logs in with their credentials and uses the GUI to schedule appointments and add, modify, or delete customer records. Reports may also be ran using the reports feature. Additional Report:The additional report takes a customer’s ID and shows the total amount of appointments that customer has in the database. MySQL Connector Driver: mysql-connector-java-8.0.25
+
+
+
